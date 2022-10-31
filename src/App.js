@@ -1,11 +1,9 @@
-import "./App.css";
+import { Header } from "./components/Header";
 
 function App() {
 	return (
-		<div className='app'>
-			<header className='header'>
-				<h1>React Movie Search</h1>
-			</header>
+		<div className='container'>
+			<Header />
 		</div>
 	);
 }

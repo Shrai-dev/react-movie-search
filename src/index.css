@@ -1,1 +1,29 @@
+html {
+	font-size: 14px;
+}
 
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #82c982;
+	color: #333;
+}
+
+p {
+	font-size: 1.4rem;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1400px;
+	padding: 40px;
+}
+
+.title {
+	font-size: 4rem;
+	text-align: center;
+}
