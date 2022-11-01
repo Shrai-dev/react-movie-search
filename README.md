@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+The project is a responsive web page for searching for a movie.
+The demo is [here](https://react-movie-search-2022.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
